@@ -10,3 +10,10 @@ An academic profile and research website.
 - Visiting research student at School of Public Health, University of Saskatchewan
 - Research intern at National Taiwan University of Science and Technology
 - Ph.D. student at Nagoya University
+
+  ## Research Interest
+
+  - Transit-Oriented Development
+  - Public Health
+  - Travel behaviors
+  - Transportation safety
