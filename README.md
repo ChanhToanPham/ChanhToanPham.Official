@@ -20,6 +20,14 @@ An academic profile and research website of Chanh Toan Pham from Vietnam
 - Travel behaviors
 - Transportation safety
 
+## International conferences
+
+- The 3rd International Conference on Sustainable Civil Engineering and Architecture (ICSCEA 2023)
+- The 1st International Conference on Sustainable Development and Climate Change Adaptation in Transportation (SDCAT 2023)
+- The 4th International Conference on Sustainable Civil Engineering and Architecture (ICSCEA 2025)
+- The 4th International Conference on Structural Health Monitoring & Engineering Structures (SHMES 2025)
+- The 8th International Conference on Geotechnics, Civil Engineering and Structures (CIGOS 2026)
+
 ## Contact
 
 - Email: pctoan.sdh241@hcmut.edu.vn
