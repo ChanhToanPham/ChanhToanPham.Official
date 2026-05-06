@@ -1,5 +1,7 @@
 # ChanhToanPham.Official
 
+<img src="DIGITAL_PHOTO_CHANHTOAN.jpeg" width="180">
+
 An academic profile and research website of Chanh Toan Pham from Vietnam
 
 ## Academic Background
