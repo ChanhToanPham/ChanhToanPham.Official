@@ -1,6 +1,6 @@
 # ChanhToanPham.Official
 
-An academic profile and research website of Chanh Toan Pham from Vietnam, 24 years old.
+An academic profile and research website of Chanh Toan Pham from Vietnam
 
 ## Academic Background
 
@@ -17,3 +17,8 @@ An academic profile and research website of Chanh Toan Pham from Vietnam, 24 yea
 - Public Health
 - Travel behaviors
 - Transportation safety
+
+## Contact
+
+- Email: pctoan.sdh241@hcmut.edu.vn
+- Google Scholar: https://scholar.google.com/citations?user=9Z6fBZEAAAAJ&hl=vi&oi=ao
